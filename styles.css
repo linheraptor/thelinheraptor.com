@@ -1,0 +1,18 @@
+/* Global */
+html, body {
+    background-image: url('nyan.gif');
+    /*background-size:100%;*/
+    background-repeat: repeat;
+    background-attachment: fixed;
+    height:100%;
+    width:100%;
+}
+
+header {
+    background: pink;
+    height: 5em;
+}
+
+.logo {
+    max-height: 3em;
+}
